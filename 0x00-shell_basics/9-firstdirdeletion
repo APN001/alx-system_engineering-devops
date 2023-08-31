@@ -1,0 +1,5 @@
+#!/bin/bash
+
+ #A script Delete the directory my_first_directory that is in the /tmp directory.
+ rm -rf/tmp/my_first_directory.
+
